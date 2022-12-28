@@ -3,10 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer | Full-Stack Developer
 ------------------------------------
+<img align="right" width="150px" height="100px" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" alt="coding gif">
 
 * 🌍  I'm based in Sri Lanka
 * 🧠  I'm learning Software Engineering
 * ⚡  Undergraduate @ SLIIT
+
+
 
 ### Skills
 
